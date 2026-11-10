@@ -54,4 +54,4 @@ G = [
   [0, 0, 0, 14, 4, 26, 0]
 ]
 
-print(connect_bridges(G))
+#print(connect_bridges(G))
